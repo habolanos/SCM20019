@@ -1,4 +1,4 @@
-# SCM20019
+# SCM2019
 Repositorio para clase de SCM en Universidad de San Buenaventura Cali
 
 Comando MAVEN para crearlo: 
